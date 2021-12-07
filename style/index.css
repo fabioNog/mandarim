@@ -1,0 +1,38 @@
+.navbar {
+    padding: 100px;
+    background: linear-gradient(90deg,
+            rgba(231, 35, 56, 1) 0%,
+            rgba(232, 59, 47, 1) 35%,
+            rgba(231, 35, 91, 1) 100%);
+}
+
+
+.imgLogo{
+    position: absolute;
+    width: 25%;
+}
+
+
+
+.imgMulher{
+    position: absolute;
+    left: 50%;
+    top: 90px;
+    width: 12%;
+}
+
+.imgQuadrado{
+    position: absolute;    
+    top: 140px;
+    left: 35%;
+    width: 80px;
+}
+
+
+.imgSeta{
+    position: absolute;
+    padding-left: 270px;
+    left: 30%;
+    top: 31px;
+}
+
