@@ -66,3 +66,26 @@
 }
 
 
+
+
+span{
+    color: rgba(0,0,0,.5);
+            font-size: 14px;
+            font-weight: 400;
+}
+
+
+
+.cardTop{
+    padding-top: 40px;
+}
+
+.divOrange{
+    padding: 20px;
+    text-align: center;
+    background-color: #FC4C02;
+}
+
+.divOrange img{
+    text-align: center;
+}
