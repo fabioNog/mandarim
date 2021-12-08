@@ -9,7 +9,14 @@
 
 .imgLogo{
     position: absolute;
+    width: 20%;
+}
+
+.imgRedonda{
+    position: absolute;
     width: 25%;
+    right: 85%;
+    top: 11%;
 }
 
 
@@ -17,22 +24,45 @@
 .imgMulher{
     position: absolute;
     left: 50%;
-    top: 90px;
-    width: 12%;
+    top: 72px;
+    width: 14%;
 }
 
 .imgQuadrado{
     position: absolute;    
-    top: 140px;
-    left: 35%;
+    top: 144px;
+    left: 30%;
     width: 80px;
 }
 
 
 .imgSeta{
     position: absolute;
-    padding-left: 270px;
-    left: 30%;
+    left: 50%;
     top: 31px;
+    width: 5%;
 }
+
+
+.imgTexto{
+    position: absolute;    
+    left: 78%;
+    width: 15%;
+    top: 45px;
+}
+
+.imgTriangulo{
+    position: absolute;    
+    left: 93%;
+    width: 2%;
+    top: 15px;
+}
+
+.imgOnda{
+    position: absolute;    
+    left: 86%;
+    width: 7%;
+    top: 170px;
+}
+
 
