@@ -7,11 +7,6 @@
 }
 
 
-.imgLogo{
-    position: absolute;
-    width: 20%;
-}
-
 .imgRedonda{
     position: absolute;
     width: 25%;
@@ -24,8 +19,8 @@
 .imgMulher{
     position: absolute;
     left: 50%;
-    top: 72px;
-    width: 14%;
+    top: 75px;
+    width: 15%;
 }
 
 .imgQuadrado{
