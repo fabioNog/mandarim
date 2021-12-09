@@ -81,11 +81,17 @@ span{
 }
 
 .divOrange{
-    padding: 20px;
+    padding: 40px;
     text-align: center;
     background-color: #FC4C02;
 }
 
-.divOrange img{
+.divOrangeImg{
+    width: 40%;
+}
+
+.divFooter{
+    padding: 40px;
     text-align: center;
+    /* background-color: #FC4C02; */
 }
