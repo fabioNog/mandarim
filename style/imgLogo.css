@@ -1,7 +1,26 @@
 @media only screen and (max-width: 961px) {
     .imgLogo{
         position: absolute;
-        width: 40%!important;
-        left: 30%;
+        width: 53%!important;
+        left: 25%;
     }
-  }
+}
+
+@media (max-width:1025px) { 
+    .imgLogo{
+        width: 20%;
+        position: absolute;        
+    }
+}
+
+
+@media (min-width:1025px) { 
+    .imgLogo{
+        width: 20%;
+        position: absolute;        
+    }
+}
+
+
+
+

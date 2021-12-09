@@ -3,7 +3,7 @@
     background: linear-gradient(90deg,
             rgba(231, 35, 56, 1) 0%,
             rgba(232, 59, 47, 1) 35%,
-            rgba(231, 35, 91, 1) 100%);
+            rgba(231, 35, 91, 4) 100%);
 }
 
 
@@ -14,14 +14,6 @@
     top: 11%;
 }
 
-
-
-.imgMulher{
-    position: absolute;
-    left: 50%;
-    top: 75px;
-    width: 15%;
-}
 
 .imgQuadrado{
     position: absolute;    

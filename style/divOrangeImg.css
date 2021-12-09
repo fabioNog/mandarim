@@ -1,54 +1,13 @@
-
-
-
-/* smartphones, iPhone, portrait 480x320 phones */ 
-
-
-@media (max-width:480px)  { 
+@media (min-width:600px)  { 
     .divOrangeImg{
-        width: 80%;
+        
+        width: 50%!important;        
     }
 }
 
 
-/* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
-
-
-/* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
-@media (max-width:641px)  { 
-    .imgLogo{
-        position: absolute;
-        width: 30%;
-    }
-}
-
-@media (min-width:642px)  { 
-    .imgLogo{
-        position: absolute;
-        width: 20%;
-    }
-}
-
-/* tablet, landscape iPad, lo-res laptops ands desktops */ 
-@media (max-width:961px)  { 
-    .imgLogo{
-        position: absolute;
-        width: 20%;
-    }
-}
-
-/* big landscape tablets, laptops, and desktops */
-@media (min-width:1025px) {  
-    .imgLogo{
-        position: absolute;
-        width: 20%;
-    }
-}
-
- /* hi-res laptops and desktops */ 
-@media (min-width:1281px) { 
-    .imgLogo{
-        position: absolute;
-        width: 20%;
+@media only screen and (max-width:480px) {
+    .divOrangeImg{        
+        width: 80%!important;        
     }
 }
